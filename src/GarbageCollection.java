@@ -13,6 +13,6 @@ public class GarbageCollection {
         
         // Tip: You might need a small delay or simply exiting might trigger it in some JVMs, 
         // but System.gc() is the standard call.
-        Sysem.out.println("Garbage Collected")
+        Sysem.out.println("Garbage Collected");
     }
 }
